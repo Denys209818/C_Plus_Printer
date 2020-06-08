@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Denis\Desktop\Новая папка\myProject46\myProject46\Source.cpp(49,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
